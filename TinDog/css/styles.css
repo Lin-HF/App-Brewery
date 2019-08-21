@@ -145,6 +145,11 @@ p {
 #footer {
     background-color: white;
     text-align: center;
+    padding: 7% 15%;
+}
+
+.social-icon {
+    margin: 20px 10px;
 }
 
 @media (max-width: 1028px) {
