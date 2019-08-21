@@ -126,6 +126,27 @@ p {
     padding: 3% 2%;
 }
 
+/* cta */
+#cta {
+    background-color: #ff4c68;
+    color: white;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.cta-heading {
+    font-weight: 900;
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+
+
+/* Footer */
+#footer {
+    background-color: white;
+    text-align: center;
+}
+
 @media (max-width: 1028px) {
     #title {
         text-align: center;
@@ -135,3 +156,4 @@ p {
         transform: rotate(0);
     }
 }
+
